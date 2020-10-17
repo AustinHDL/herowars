@@ -74,6 +74,10 @@ button.active {
 	align-items: center;
 }
 
+.column p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .show {
     display: block;
 }
